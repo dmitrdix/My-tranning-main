@@ -7,7 +7,7 @@ import asyncio
 
 
 
-api='8089324281:AAGV7_H0p_1J_z1YiprgbEvl7PT71pozGAU'
+api=''
 bot=Bot(token=api)
 dp=Dispatcher(bot, storage=MemoryStorage())
 
