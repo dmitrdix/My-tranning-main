@@ -1,0 +1,44 @@
+[
+    {
+        "age": 20,
+        "balance": "1000",
+        "email": "example2@gmail.com",
+        "id": 2,
+        "username": "User2"
+    },
+    {
+        "age": 30,
+        "balance": "500",
+        "email": "example3@gmail.com",
+        "id": 3,
+        "username": "User3"
+    },
+    {
+        "age": 50,
+        "balance": "500",
+        "email": "example5@gmail.com",
+        "id": 5,
+        "username": "User5"
+    },
+    {
+        "age": 60,
+        "balance": "1000",
+        "email": "example6@gmail.com",
+        "id": 6,
+        "username": "User6"
+    },
+    {
+        "age": 80,
+        "balance": "1000",
+        "email": "example8@gmail.com",
+        "id": 8,
+        "username": "User8"
+    },
+    {
+        "age": 90,
+        "balance": "500",
+        "email": "example9@gmail.com",
+        "id": 9,
+        "username": "User9"
+    }
+]
